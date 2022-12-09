@@ -29,6 +29,12 @@ I'm a quick learner with a positive attitude and high aims for self-improvement 
 + Markdown
 
 ## Code example
+```
+function multiply(a, b){
+  let result = a * b;
+  return result;
+}
+```
 ## Experience 
 Finsweet project (VSC, CSS, SCSS, KIT, Prepros, GitHub) <https://github.com/MarianaShy/Team-Project.git>
 
