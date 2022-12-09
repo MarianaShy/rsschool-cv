@@ -1,21 +1,41 @@
 # Mariana Shydlovska 
+![My picture](/picture.jpg)
 
-![My picture](https://imgur.com/gallery/TomSjVy)
+I'm a quick learner with a positive attitude and high aims for self-improvement - always on the hunt of something new. My friends describe me as an easy going and communicative team player. I'm well organized person, driven by results. I'm highly interested in Web development and entering IT industry. I'm psychologist by education andI'm looking forward for communication and teamwork with colleagues. My priority is to become a high level profesional, maintain life-work balance, be able to travel.
+
+
 ## Contacts
 
->### Phone
->*+460733-75-2822*
+>**Phone number:** *+460733-75-2822*
 >
->### Email
->*marjanka77777@gmail.com*
+>**Email address:** *marjanka77777@gmail.com*
 >
->### Discort
-> *Mariana Shydlovska (@MarianaShy)*
+>**Discort:** *Mariana Shydlovska (@MarianaShy)*
 >
->### Locatio
->*Malmo, Sweden*
+>**Location:** *Malmo, Sweden*
 >
->### LinkedIn
->*[Mariana Shydlovska](https://www.linkedin.com/in/mariana-shy/)*
+>**LinkedIn account:** *[Mariana Shydlovska](https://www.linkedin.com/in/mariana-shy/)*
 
+##  Skills 
++ Visual Studio Code 
++ HTML tegs
++ Cascading style sheet syntax
++ SASS SCSS
++ Java Script basics
++ Prepros
++ GitHub
++ Git
++ BEM
++ Markdown
 
+## Code example
+## Experience 
+Finsweet project (VSC, CSS, SCSS, KIT, Prepros, GitHub) <https://github.com/MarianaShy/Team-Project.git>
+
+CV project (GitHub, Markdown) <https://github.com/MarianaShy/rsschool-cv.git>
+
+## Languages
++ Ukrainian *native*
++ English *C1* 
++ Swedish *A2*
++ Russian *fluent*
