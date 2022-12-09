@@ -1,6 +1,6 @@
 # Mariana Shydlovska 
 
-! [My picture](https://imgur.com/a/TomSjVy)
+![My picture](https://imgur.com/gallery/TomSjVy)
 ## Contacts
 
 >### Phone
