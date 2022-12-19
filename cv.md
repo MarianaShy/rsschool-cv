@@ -1,5 +1,5 @@
 # Mariana Shydlovska 
-![My picture](/picture.jpg)
+![My picture](/img/picture.jpg)
 
 I'm a quick learner with a positive attitude and high aims for self-improvement - always on the hunt of something new. My friends describe me as an easy going and communicative team player. I'm well organized person, driven by results. I'm highly interested in Web development and entering IT industry. I'm psychologist by education andI'm looking forward for communication and teamwork with colleagues. My priority is to become a high level profesional, maintain life-work balance, be able to travel.
 
