@@ -128,7 +128,7 @@ font-weight: 700;}
 
 .logo {
 	width: 100px;
-	margin-right: 10px;
+	padding: auto;
 }
 .footer-container {
 	max-width: 1440px;
@@ -136,4 +136,5 @@ font-weight: 700;}
 	background-color: rgb(56, 58, 58);
 	display: flex;
 	justify-content: space-between;
+	align-items: center;
 }
