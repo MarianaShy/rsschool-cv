@@ -1,0 +1,139 @@
+html {
+	scroll-behavior: smooth; 
+}
+* {
+	box-sizing: border-box;
+}
+body
+{
+	color: grey;
+	font-size: 20px;
+	font-family: "Mukta";
+	font-weight: 400;
+	margin: 0px;
+}
+.wrapper
+{
+	
+	min-width: 320px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	min-height: 100vh;
+	
+}
+.header__container
+{
+	max-width: 1440px;
+   margin: 0 auto;
+	background-color: rgb(56, 58, 58);
+	border: 1px solid  rgb(56, 58, 58);
+}
+
+.navigation
+{
+	display: flex;
+	justify-content: flex-end;
+	flex-wrap: nowrap;
+}
+@media (max-width: 1200px){
+	.navigation__item { width: 25%; }
+	.navigation {flex-wrap: wrap;}
+}
+@media (max-width: 767px){
+	.navigation {flex-direction: column; align-items: center;}
+}
+ul
+{
+	padding-inline-start: 20px; 
+	list-style: circle;
+}
+.contacts-list__item,  .navigation__item
+{
+	list-style: none;
+
+}
+
+.main__container {
+	background-image: linear-gradient( 174.2deg,  rgba(255,244,228,1) 7.1%, rgba(240,246,238,1) 67.4% );
+	padding-bottom: 50px;
+	display: flex;
+	flex-wrap: wrap;
+	max-width: 1440px;
+   margin: 0 auto;
+}
+.section {
+	width: 100%;
+	margin: 15px 25px 0px 25px ;
+}
+
+.my-picture {
+	border-radius: 25px ;
+	min-width: 320px;
+}
+
+
+.contacts {
+	background-color: rgb(71, 72, 72);
+	border-radius: 25px;
+}
+.contacts-list {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+.contacts-list__item {
+	margin: 0px 10px;
+	color: rgb(233, 232, 232);
+
+}
+
+
+.dark-container {
+	background-color: rgb(71, 72, 72);
+	border-radius: 25px;
+	color: rgb(233, 232, 232);
+	text-align: center;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+	.dark-link
+{
+	text-decoration: none;
+	color: rgb(233, 232, 232);
+	padding: 0 20px;
+	transition-duration: 400ms; 
+	border-radius: 15px;
+	display: block;
+	margin: 5px;
+}
+.dark-link:hover
+{
+	color: rgb(59, 57, 57);
+	transition-duration: 400ms; 
+	background-color: rgb(196, 241, 249);
+}
+.languages-flex {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+
+}
+.languages-list  {
+	margin: 0;
+}
+.course-title {
+font-weight: 700;}
+
+.logo {
+	width: 100px;
+	margin-right: 10px;
+}
+.footer-container {
+	max-width: 1440px;
+   margin: 0px auto;
+	background-color: rgb(56, 58, 58);
+	display: flex;
+	justify-content: space-between;
+}
